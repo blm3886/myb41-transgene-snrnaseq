@@ -3,6 +3,18 @@ reference/
 counts/
 mkref_*/
 **/tmp/
+
+# --- Cell Ranger run outputs / pipestance artifacts (large — keep off GitHub) ---
+Col-0*/
+pFACT*/
+pHORST*/
+*_v4/
+*.mro
+__*.mro
+SC_RNA_*/
+*.cloupe
+*.h5
+*.mri.tgz
 *.bam
 *.bai
 *.fastq.gz
