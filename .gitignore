@@ -1,0 +1,20 @@
+# --- Data & build artifacts (never commit — too large / lab data) ---
+reference/
+counts/
+mkref_*/
+**/tmp/
+*.bam
+*.bai
+*.fastq.gz
+*.fq.gz
+*.fasta
+*.fa
+*.gz
+*.gtf
+*.gff3
+*.gbk
+
+# --- Python / Jupyter cruft ---
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
