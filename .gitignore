@@ -30,3 +30,6 @@ SC_RNA_*/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# --- alevin-fry pipeline outputs (index, RAD, matrices — large) ---
+alvinfry/
